@@ -60,3 +60,10 @@ main p.imagem3{
     font-weight: bold;
     color: white;
 }
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
